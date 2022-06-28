@@ -1,2 +1,2 @@
 # python_practice
-Simple codes for python
+Simple codes for python written for practice
